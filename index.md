@@ -10,7 +10,7 @@ I did my undergraduate at UCSD (UC San Diego) studying Math+CS.
 ## Current Research Interests
 
 - **Private Machine Learning**  
-- **Private Quantum Computing**
+- **Quantum Computing**
 - **Geometric Deep Learning**
 
 ## Projects
