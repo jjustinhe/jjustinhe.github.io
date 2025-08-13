@@ -17,6 +17,9 @@ I did my undergraduate at UCSD (UC San Diego) studying Math+CS.
 
 - **WIP research pipeline**
 
+## Teaching
+
+- **CS55500 Cryptography Fall 2025:** Teaching Assistant
 {% comment %} 
 
 ## News
