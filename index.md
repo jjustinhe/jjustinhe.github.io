@@ -4,12 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Computer Science PhD student at Purdue University.
+I did my undergraduate at UCSD (UC San Diego) studying Math+CS. 
 
-## Research Interests
+## Current Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Private Machine Learning**  
+- **Private Quantum Computing**
+- **Geometric Deep Learning**
+
+## Projects
+
+- **WIP research pipeline**
+
+{% comment %} 
 
 ## News
 
@@ -21,3 +29,5 @@ I am a Ph.D. student at ...
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% endcomment %}
